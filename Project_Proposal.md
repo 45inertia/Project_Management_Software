@@ -13,7 +13,7 @@ The purpose of this document is to be a project proposal for a project managemen
 ## Functionality
 Project data: Each project will have a Title, Description, Documentation, Tasks, Logs and Timeline. This can be seen below:
 
-![Functionality](../project_proposal_images/functionality-export-21-05-2024-15_07_43.png)
+![Functionality](./project_proposal_images/functionality-export-21-05-2024-15_07_43.png)
 
 
 
@@ -22,23 +22,23 @@ First Iteration of wireframes:
 
 Home Page 
 
-![Home Page Wireframe](../project_proposal_images/home-page-wireframe-export-21-05-2024-15_07_43.png)
+![Home Page Wireframe](./project_proposal_images/home-page-wireframe-export-21-05-2024-15_07_43.png)
 
 Projects Page
 
-![Projects Page Wireframe](../project_proposal_images/projects-page-wireframe-export-21-05-2024-15_07_43.png)
+![Projects Page Wireframe](./project_proposal_images/projects-page-wireframe-export-21-05-2024-15_07_43.png)
 
 Analysis Page
 
-![Analysis Page Wireframe](../project_proposal_images/analysis-page-wireframe-export-21-05-2024-15_07_44.png)
+![Analysis Page Wireframe](./project_proposal_images/analysis-page-wireframe-export-21-05-2024-15_07_44.png)
 
 Calendar Page
 
-![Calendar Page Wireframe](../project_proposal_images/calendar-page-wireframe-export-21-05-2024-15_07_44.png)
+![Calendar Page Wireframe](./project_proposal_images/calendar-page-wireframe-export-21-05-2024-15_07_44.png)
 
 Settings Page
 
-![Settings Page Wireframe](../project_proposal_images/settings-page-wireframe-export-21-05-2024-15_07_44.png)
+![Settings Page Wireframe](./project_proposal_images/settings-page-wireframe-export-21-05-2024-15_07_44.png)
 
 
 
